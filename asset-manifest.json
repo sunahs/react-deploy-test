@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://sunahs.github.io/react-deploy-test/static/css/main.073c9b0a.css",
+    "main.js": "https://sunahs.github.io/react-deploy-test/static/js/main.a259ac45.js",
+    "static/js/787.5afe2523.chunk.js": "https://sunahs.github.io/react-deploy-test/static/js/787.5afe2523.chunk.js",
+    "index.html": "https://sunahs.github.io/react-deploy-test/index.html",
+    "main.073c9b0a.css.map": "https://sunahs.github.io/react-deploy-test/static/css/main.073c9b0a.css.map",
+    "main.a259ac45.js.map": "https://sunahs.github.io/react-deploy-test/static/js/main.a259ac45.js.map",
+    "787.5afe2523.chunk.js.map": "https://sunahs.github.io/react-deploy-test/static/js/787.5afe2523.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a259ac45.js"
+  ]
+}
